@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+    "id": "1",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/logo_fce.jpg?alt=media&token=e3c16116-4b7a-451c-a95c-67fab16ded59",
+    "facultad":"Facultad de Ciencias Empresariales",
+    "decano":"Decana: Ing. Mariela Susana Andrade Arias, PhD.",    
+    "ubicacion":"UTEQ-Central",
+    "latitud":"-1.012187",
+    "longitud":"-79.470314"
+    },
+    {
+    "id": "2",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/logo_fci.jpg?alt=media&token=95f1cd8d-d1f5-4160-a5fb-38398ffce294",
+    "facultad":"Facultad de Ciencias de la Ingeniería",
+    "decano":"Decano: Ing. Washington Alberto Chiriboga Casanova, M.Sc.",    
+    "ubicacion":"UTEQ-Central",
+    "latitud":"-1.012589",
+    "longitud":"-79.470630"
+    },
+    {
+    "id": "3",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/logo_fcip.png?alt=media&token=3393ceac-6867-40bd-aeb7-f8891d4ac950",
+    "facultad":"Facultad de Ciencias de la Industria y Producción",
+    "decano":"Decana: Ing. Sonnia Esther Barzola Miranda",    
+    "ubicacion":"UTEQ",
+    "latitud":"-1.012509",
+    "longitud":"-79.470856"
+    },
+    {
+    "id": "4",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/logo_fca.jfif?alt=media&token=e145305b-6d8c-4c62-a08a-ce546ef1baca",
+    "facultad":"Facultad de Ciencias Agropecuarias",
+    "decano":"Decano: Ing. Leonardo Gonzalo Matute",    
+    "ubicacion":"UTEQ",
+    "latitud":"-1.081367",
+    "longitud":"-79.502984"
+    },
+    {
+    "id": "5",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/logo_uteq.png?alt=media&token=263a6270-4af1-423e-964b-4d3c232bad98",
+    "facultad":"Facultad de Ciencias de la Educación",
+    "decano":"Decana: Lcda. Badie Anneriz Cerezo Segovia, PhD.",    
+    "ubicacion":"UTEQ",
+    "latitud":"-1.012889",
+    "longitud":"-79.469557"
+    },
+    {
+    "id": "6",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/logo_fcsef.jfif?alt=media&token=30db1a7d-4018-4fc1-ae4a-9d7c66b34020",
+    "facultad":"Facultad de Ciencias Sociales, Económicas y Financieras",
+    "decano":"Decano: Econ. Nivaldo Apolonides Vera Valdiviezo, M.Sc.",    
+    "ubicacion":"UTEQ",
+    "latitud":"-1.012160",
+    "longitud":"-79.469965"
+    },
+    {
+    "id": "7",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/logo_fe.jfif?alt=media&token=86d633aa-8130-47cc-adf9-6fab08e40e96",
+    "facultad":"Facultad de Ciencias de la Salud",
+    "decano":"Decana: Lcda. Inés de la Luz Bajaña Mendieta, M.Sc.",    
+    "ubicacion":"UTEQ",
+    "latitud":"-1.012911",
+    "longitud":"-79.469257"
+    }
+   ]
+}
